@@ -1,0 +1,25 @@
+30 Massalia Dr	-	R2P 1C4
+40 Massalia Dr	-	R2P 1C4
+44 Massalia Dr	-	R2P 1C7
+56 Massalia Dr	-	R2P 1C7
+64 Massalia Dr	-	R2P 1C7
+27 Massalia Dr	="204-452-6189" & CHAR(10) & "204-453-8426"	R2P 1C4
+39 Massalia Dr	-	R2P 1C4
+47 Massalia Dr	-	R2P 1C7
+51 Massalia Dr	-	R2P 1C7
+2 Moldan Bay	-	R2P 1C4
+10 Moldan Bay	="204-694-0954"	R2P 1C4
+18 Moldan Bay	-	R2P 1C4
+26 Moldan Bay	-	R2P 1C4
+30 Moldan Bay	="204-339-2203"	R2P 1C4
+54 Moldan Bay	-	R2P 1C4
+58 Moldan Bay	-	R2P 1C7
+41 Moldan Bay	-	R2P 1C4
+53 Moldan Bay	="204-415-7598"	R2P 1C7
+98 Strasbourg Dr	="204-221-4111" & CHAR(10) & "204-221-6314"	R2P 2Z8
+106 Strasbourg Dr	-	R2P 2Z8
+118 Strasbourg Dr	-	R2P 2Z7
+130 Strasbourg Dr	-	R2P 2Z7
+23 Morava Way	="204-415-9423"	R2P 2Z8
+31 Morava Way	="204-219-8497"	R2P 2Z8
+43 Morava Way	="204-697-2501"	R2P 2Z8

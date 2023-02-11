@@ -1,0 +1,30 @@
+1.  	10 Massalia Drive	Tronco, M. 	204-694-0913
+2.  	10 Moldan Bay	Peterson, Brent D. 	204-694-0954
+3.  	14 Massalia Drive	Artates, Matilda 	204-694-0524
+4.  	27 Massalia Drive	Brinkman, Ryan 	204-452-6189
+5.  	27 Massalia Drive	Brinkman, Ryan 	204-453-8426
+6.  	30 Moldan Bay	Tacchi, J. 	204-339-2203
+7.  	31 Massalia Drive	Soriano, Merlyn 	204-415-7381
+8.  	31 Massalia Drive	Soriano, Aurora 	204-415-7384
+9.  	37 Moldan Bay	Palma, R. 	204-632-0776
+10.  	38 Moldan Bay	Sharda, Darshan 	204-694-2772
+11.  	42 Moldan Bay	Latour, Ruben 	204-694-3048
+12.  	49 Moldan Bay	Andrade, C. 	204-338-6824
+13.  	49 Moldan Bay	Andrade, R. 	204-338-6824
+1.  	53 Moldan Bay	Limsiaco, J. N. 	204-415-7598
+2.  	66 Moldan Bay	Brar, P. 	204-632-1016
+3.  	67 Moldan Bay	Brar, Harnek 	204-694-7937
+1.  	2 Amber Trail	Nguyen, Huong 	204-632-4749
+2.  	23 Morava Way	Nguyen, Tien 	204-415-9423
+3.  	31 Morava Way	Stepinski, Mark 	204-219-8497
+4.  	39 Morava Way	Nguyen, Do 	204-415-3227
+5.  	43 Morava Way	Granovsky, Shawn 	204-697-2501
+6.  	43 Morava Way	Granovsky, Shannon 	204-697-2501
+7.  	63 Tessler Bay	Buenafe, J. A. 	204-284-7755
+8.  	98 Strasbourg Drive	Desrochers, David 	204-221-4111
+9.  	98 Strasbourg Drive	Desrochers, David 	204-221-6314
+1.  	126 Strasbourg Drive	Singh, Balraj 	204-285-9325
+2.  	207 Thorn Drive	Bhattal, K. 	204-221-6678
+3.  	38 Riga Cove	Fast, D. 	204-632-0915
+4.  	42 Riga Cove	Bernardin, A. 	204-221-1945
+5.  	62 Riga Cove	Valsurd, Andre 	204-221-8771
